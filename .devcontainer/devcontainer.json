@@ -1,0 +1,4 @@
+{
+  "name": "Crypto Signal Bot",
+  "postCreateCommand": "python -m pip install -r requirements.txt"
+}
